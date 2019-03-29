@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*************************************"
-  ui_print "      OnePlus 6T NFC SIM Enabler     "
+  ui_print "      OnePlus 5T NFC SIM Enabler     "
   ui_print "*************************************"
 }
 
