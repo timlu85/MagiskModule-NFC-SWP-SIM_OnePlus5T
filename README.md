@@ -2,7 +2,7 @@
 ## Description
 Updated version of shakalaca'ss module 
 ## Changelog
-v1 first test release
+v1 First test release
 ## Requirements
 * NFC-SIM
 * Oneplus 5T
