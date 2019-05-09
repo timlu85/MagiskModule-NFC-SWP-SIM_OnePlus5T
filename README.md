@@ -1,6 +1,7 @@
 # Oneplus 5T NFC SWP sim enabler
 ## Description
-Updated version of shakalaca'ss module 
+Updated version of shakalaca'ss module
+NOT WORKING FOR NOW STILL WIP!!  
 ## Changelog
 v1 First test release
 ## Requirements
