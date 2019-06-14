@@ -63,6 +63,9 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/etc/nfcee_access.xml
+/system/vendor/etc/libnfc-nxp.conf
+/system/vendor/lib64/nfc_nci_nxp.so
 "
 
 ##########################################################################################
