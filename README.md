@@ -8,6 +8,7 @@ NOT WORKING FOR NOW STILL WIP!!
 * Magisk 17+
 * Oxygen OS Pie 9.0.4+
 ## Changelog
+- v1.3 Change lib
 - v1.2 Add lib
 - v1 First test release
 ## Version Status
