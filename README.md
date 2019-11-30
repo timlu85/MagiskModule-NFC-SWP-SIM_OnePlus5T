@@ -1,9 +1,15 @@
-# Oneplus 6T NFC SWP sim enabler
+# Oneplus 5T NFC SWP sim enabler
 ## Description
-Updated version of shakalaca'ss module (Now working with OOS 9.0.5)
-## Changelog
-v1 first release
+Updated version of shakalaca'ss module
+NOT WORKING FOR NOW STILL WIP!!  
 ## Requirements
 * NFC-SIM
-* Oneplus 6T
-* Oxygen OS Pie 9.0.5
+* Oneplus 5T
+* Magisk 17+
+* Oxygen OS Pie 9.0.4+
+## Changelog
+- v1.3 Change lib
+- v1.2 Add lib
+- v1 First test release
+## Version Status
+* Alpha
