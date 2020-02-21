@@ -1,7 +1,6 @@
 id=oneplus5tNFCSimEnabler
 name=OnePlus 5T NFC Sim Enabler
-version=v1.2(alpha)
-versionCode=1
-author=shakalaca & modify timlu85
+version=v1.7(Alpha)
+versionCode=17
+author=Based on shakalaca's & modify by timlu85
 description=Enable NFC SIM feature for OnePlus 5T
-minMagisk=17000
